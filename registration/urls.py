@@ -20,3 +20,4 @@ urlpatterns = [
     path('regserve/', include('regserve.urls')),
     path('admin/', admin.site.urls),
 ]
+
